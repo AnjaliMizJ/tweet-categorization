@@ -1,0 +1,2 @@
+Here in this i have taken a dataset from the kaggle and then importing the dataset and and converting the tweets into tokens formatand the tags were alooted for each words in the sentence of tweet.
+After that what i needed to do was to classify the sentences on the basis of tags allotted to the words by comparing it to the dictionary created for the different category like opinion, blockchain, news etc.
